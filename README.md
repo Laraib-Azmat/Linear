@@ -90,7 +90,7 @@ Where:
 ---
 
 ### Example Code (Python) 
-#(Also see the detail implementation in given code file)
+# (Also see the detail implementation in given code file)
 
 Here’s a simple implementation of Linear Regression using Python and scikit-learn:
 
